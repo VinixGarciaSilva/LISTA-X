@@ -1,2 +1,2 @@
-# LISTA-X
-LISTA X
+# LISTA-Xi
+LISTA Xi
